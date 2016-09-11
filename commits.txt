@@ -1,0 +1,11 @@
+commit 39db563970f35347141fe6423f25995c02c8835c
+Author: Raul Fabian <casilla_free@hotmail.com>
+Date:   Sat Sep 10 17:21:41 2016 -0300
+
+    estructura basica html
+
+commit 29bb0d7efbac0f1619dfe28a695a015fcd72a752
+Author: Raul Fabian <casilla_free@hotmail.com>
+Date:   Sat Sep 10 16:59:33 2016 -0300
+
+    mi primer commit
